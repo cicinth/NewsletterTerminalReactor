@@ -1,0 +1,28 @@
+# Compiled class file
+*.class
+
+# Gradle build files
+.gradle/
+build/
+
+# Gradle wrapper files
+gradle/wrapper/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA project files
+*.iml
+*.ipr
+*.iws
+
+# JUnit report files
+reports/
+
+# .idea/
+.idea/
+
+# .vscode/
+.vscode/
